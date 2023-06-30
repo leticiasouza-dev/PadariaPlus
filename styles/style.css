@@ -1,0 +1,81 @@
+body{
+    background-color: #f4f0e5;
+}
+
+main{
+    width: 750px;
+    text-align: center;
+    margin: 0 auto; 
+}
+
+.Logo{
+    width: 180px;
+    text-align: center;
+}
+
+.barra-navegacao > ul{
+    color: #83796a;
+
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+}
+
+h1{
+    font-family:Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 790;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e0a879;
+    font-weight: 400;
+}
+
+.imagem-produtos{
+    width: 750px;
+}
+
+.sessao-produtos{
+    padding: 0 80px 50px 80px;
+    background-color: #de8e37;
+    color: white;
+}
+
+.sessao-produtos > img{
+    width: 400px;
+}
+
+.sessao-produtos h3{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+}
+
+h4{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+footer h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+footer li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+}
+span{
+    font-weight: bold;
+    
+}
